@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">LoL查询</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_result">查询结果</string>
+
+    <array name="serverTypeStringArray" >
+        <item>电信</item>
+        <item>网通</item>
+    </array>
+
+    <array name="dianXinServerNameStringArray" >
+        <item>艾欧尼亚</item>
+        <item>祖安</item>
+        <item>诺克萨斯</item>
+        <item>班德尔城</item>
+        <item>皮尔特沃夫</item>
+        <item>战争学院</item>
+        <item>巨神峰</item>
+        <item>雷瑟守备</item>
+        <item>裁决之地</item>
+        <item>黑色玫瑰</item>
+        <item>暗影岛</item>
+        <item>钢铁烈阳</item>
+        <item>均衡教派</item>
+        <item>水晶之痕</item>
+        <item>影流</item>
+        <item>守望之海</item>
+        <item>征服之海</item>
+        <item>卡拉曼达</item>
+        <item>皮城警备</item>
+    </array>
+
+    <array name="wangTongServerNameStringArray" >
+        <item>比尔吉沃特</item>
+        <item>德玛西亚</item>
+        <item>弗雷尔卓德</item>
+        <item>无畏先锋</item>
+        <item>恕瑞玛</item>
+        <item>扭曲丛林</item>
+        <item>巨龙之巢</item>
+        <item>教育网专区</item>
+    </array>
+
+    <array name="searchResultTabTitleStringArray">
+        <item>玩家信息</item>
+        <item>数据统计</item>
+        <item>英雄统计</item>
+    </array>
+
+</resources>
